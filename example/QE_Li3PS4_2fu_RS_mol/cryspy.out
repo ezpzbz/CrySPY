@@ -1,0 +1,54 @@
+2022/02/09 07:52:02
+CrySPY 0.10.2
+Start cryspy.py
+
+# ---------- Read cryspy.in (at 1st run)
+# ------ basic section
+algo = RS
+calc_code = QE
+tot_struc = 4
+nstage = 2
+njob = 1
+jobcmd = qsub
+jobfile = job_cryspy
+# ------ structure section
+struc_mode = mol
+natot = 16
+atype = Li P S
+nat = 6 2 8
+mol_file = ./Li.xyz ./PS4.xyz
+nmol = 6 2
+timeout_mol = 120.0
+rot_mol = None
+nrot = None
+vol_factor = 1.0 1.0
+vol_mu = None
+vol_sigma = None
+mindist = None
+maxcnt = 50
+symprec = 0.01
+spgnum = all
+use_find_wy = False
+minlen = None
+maxlen = None
+dangle = None
+# ------ QE section
+qe_infile = pwscf.in
+qe_outfile = pwscf.out
+kppvol = 40 60
+force_gamma = False
+# ------ option section
+stop_chkpt = 0
+load_struc_flag = False
+stop_next_struc = False
+recalc = 
+append_struc_ea = False
+energy_step_flag = False
+struc_step_flag = False
+force_step_flag = False
+stress_step_flag = False
+
+
+# ---------- Generate initial structures
+Generated structures up to ID 3
+

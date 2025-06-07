@@ -1,0 +1,24 @@
+data_ID_4
+
+_cell_length_a      3.52029464
+_cell_length_b      7.88584503
+_cell_length_c      1.80739652
+_cell_angle_alpha  90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma  90.00000000
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, z'
+  '-x+1/2, y+1/2, z+1/2'
+  'x+1/2, -y+1/2, z+1/2'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  Si      0.000000  0.000000  0.656562
+  Si      0.000000  0.500000  0.271635
+  Si      0.915932  0.287036  0.644397

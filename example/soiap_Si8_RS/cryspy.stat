@@ -1,0 +1,50 @@
+[basic]
+algo = RS
+calc_code = soiap
+tot_struc = 5
+nstage = 1
+njob = 2
+jobcmd = zsh
+jobfile = job_cryspy
+
+[structure]
+struc_mode = crystal
+natot = 8
+atype = Si
+nat = 8
+mol_file = None
+nmol = None
+timeout_mol = 120.0
+rot_mol = None
+nrot = None
+vol_factor = 1.0 1.0
+vol_mu = None
+vol_sigma = None
+mindist = None
+maxcnt = 50
+symprec = 0.01
+spgnum = all
+use_find_wy = False
+minlen = None
+maxlen = None
+dangle = None
+
+[soiap]
+soiap_infile = soiap.in
+soiap_outfile = soiap.out
+soiap_cif = initial.cif
+
+[option]
+stop_chkpt = 0
+load_struc_flag = False
+stop_next_struc = False
+recalc = 
+append_struc_ea = False
+energy_step_flag = False
+struc_step_flag = False
+force_step_flag = False
+stress_step_flag = False
+
+[status]
+id_queueing = 
+

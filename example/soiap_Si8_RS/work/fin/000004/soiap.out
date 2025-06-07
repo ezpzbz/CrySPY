@@ -1,0 +1,343 @@
+ soiap version 0.3.0
+
+ input=soiap.in
+ unit vectors [Bohr]
+u1 =     6.6523922686630845     0.0000000000000000     0.0000000000000000
+u2 =     0.0000000000000000    14.9020862950969377     0.0000000000000000
+u3 =     0.0000000000000000     0.0000000000000000     3.4154841755111054
+ QMD%omega =   338.59239679544652     
+ number of atoms =           8
+ number of elements =           1
+ atom_list: lattice coordinate
+  14     0.0000000000000000     0.0000000000000000     0.6565620000000000   1
+  14     0.5000000000000000     0.5000000000000000     0.1565620000000001   1
+  14     0.0000000000000000     0.5000000000000000     0.2716350000000000   1
+  14     0.5000000000000000     0.0000000000000000     0.7716350000000001   1
+  14     0.9159320000000000     0.2870360000000000     0.6443970000000000   1
+  14     0.0840680000000000     0.7129639999999999     0.6443970000000000   1
+  14     0.5840680000000000     0.7870360000000001     0.1443970000000001   1
+  14     0.4159320000000000     0.2129640000000000     0.1443970000000001   1
+ atom_list: Cartesian coordinate [Bohr]
+  14     0.0000000000000000     0.0000000000000000     2.2424771212419223   1
+  14     3.3261961343315423     7.4510431475484689     0.5347350334863700   1
+  14     0.0000000000000000     7.4510431475484689     0.9277650440149592   1
+  14     3.3261961343315423     0.0000000000000000     2.6355071317705119   1
+  14     6.0931389554211162     4.2774352417994450     2.2009277562468297   1
+  14     0.5592533132419684    10.6246510532974927     2.2009277562468297   1
+  14     3.8854494475735106    11.7284783893479148     0.4931856684912774   1
+  14     2.7669428210895739     3.1736079057490238     0.4931856684912774   1
+ symmetry on
+ md_mode =           4
+ number_max_relax =           1
+ md_mode_cell =           3
+ number_max_relax_cell =         100
+external_stress_v    0.000000    0.000000    0.000000
+ time_step (input) =   1.0000000000000000     
+ time_step [a.u.] =   41.341374176780803     
+ th_force =   5.0000000000000002E-005
+ th_stress =   4.9999999999999998E-007
+ max_displacement [Bohr] =  0.10000000000000001     
+ mass_cell =   5.0000000000000001E-004
+ force_field =           1
+ QMD%loopc,QMD%loopa=           1           1  out of          100           1
+show_time: tote_frc_strs:     0.004 sec
+ QMD%omega =   351.71253956791350     
+ QMD%loopc,QMD%loopa=           2           1  out of          100           1
+show_time: tote_frc_strs:     0.005 sec
+ QMD%omega =   362.93584181155904     
+ QMD%loopc,QMD%loopa=           3           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   371.06725031620596     
+ QMD%loopc,QMD%loopa=           4           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   379.67129114331237     
+ QMD%loopc,QMD%loopa=           5           1  out of          100           1
+show_time: tote_frc_strs:     0.004 sec
+ QMD%omega =   391.36050394811701     
+ QMD%loopc,QMD%loopa=           6           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   396.25099235645843     
+ QMD%loopc,QMD%loopa=           7           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   403.41961071160750     
+ QMD%loopc,QMD%loopa=           8           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   412.00029087157679     
+ QMD%loopc,QMD%loopa=           9           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   414.95157877528675     
+ QMD%loopc,QMD%loopa=          10           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   420.53508202674175     
+ QMD%loopc,QMD%loopa=          11           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   429.19760994528428     
+ QMD%loopc,QMD%loopa=          12           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   434.13238741019103     
+ QMD%loopc,QMD%loopa=          13           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   439.82895692533782     
+ QMD%loopc,QMD%loopa=          14           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   445.38778444928096     
+ QMD%loopc,QMD%loopa=          15           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   446.50040980304897     
+ QMD%loopc,QMD%loopa=          16           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   449.69987852375243     
+ QMD%loopc,QMD%loopa=          17           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   452.74132839950641     
+ QMD%loopc,QMD%loopa=          18           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   453.74221357370072     
+ QMD%loopc,QMD%loopa=          19           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   459.27800649646849     
+ QMD%loopc,QMD%loopa=          20           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   463.54705987785718     
+ QMD%loopc,QMD%loopa=          21           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   464.14913415961206     
+ QMD%loopc,QMD%loopa=          22           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   464.65218983914133     
+ QMD%loopc,QMD%loopa=          23           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   466.50002007564933     
+ QMD%loopc,QMD%loopa=          24           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   468.88577416103954     
+ QMD%loopc,QMD%loopa=          25           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   469.98094199467721     
+ QMD%loopc,QMD%loopa=          26           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   470.75727585208875     
+ QMD%loopc,QMD%loopa=          27           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   471.33713488698311     
+ QMD%loopc,QMD%loopa=          28           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   472.32307600691530     
+ QMD%loopc,QMD%loopa=          29           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   475.57569487258132     
+ QMD%loopc,QMD%loopa=          30           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   477.97898461281795     
+ QMD%loopc,QMD%loopa=          31           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   479.52125036298577     
+ QMD%loopc,QMD%loopa=          32           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   483.51978932870247     
+ QMD%loopc,QMD%loopa=          33           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   485.62158504679508     
+ QMD%loopc,QMD%loopa=          34           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   489.06519240631656     
+ QMD%loopc,QMD%loopa=          35           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   493.43982751922977     
+ QMD%loopc,QMD%loopa=          36           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   496.69850355120394     
+ QMD%loopc,QMD%loopa=          37           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   499.96348905312652     
+ QMD%loopc,QMD%loopa=          38           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   502.09896635540531     
+ QMD%loopc,QMD%loopa=          39           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   503.92650378100399     
+ QMD%loopc,QMD%loopa=          40           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   506.31702000499183     
+ QMD%loopc,QMD%loopa=          41           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   509.81722347307021     
+ QMD%loopc,QMD%loopa=          42           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   513.33268007593597     
+ QMD%loopc,QMD%loopa=          43           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   514.79670213005920     
+ QMD%loopc,QMD%loopa=          44           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   517.92244694920839     
+ QMD%loopc,QMD%loopa=          45           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   518.87485936938310     
+ QMD%loopc,QMD%loopa=          46           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   519.35584817298229     
+ QMD%loopc,QMD%loopa=          47           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   519.71418148569319     
+ QMD%loopc,QMD%loopa=          48           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   520.09569490984904     
+ QMD%loopc,QMD%loopa=          49           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   520.51422200288550     
+ QMD%loopc,QMD%loopa=          50           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   520.89472750831578     
+ QMD%loopc,QMD%loopa=          51           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   521.16796494456037     
+ QMD%loopc,QMD%loopa=          52           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   521.28533187780363     
+ QMD%loopc,QMD%loopa=          53           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.15366045643839     
+ QMD%loopc,QMD%loopa=          54           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.35173271377971     
+ QMD%loopc,QMD%loopa=          55           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.37803607095054     
+ QMD%loopc,QMD%loopa=          56           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.40192577958408     
+ QMD%loopc,QMD%loopa=          57           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.43327900695942     
+ QMD%loopc,QMD%loopa=          58           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.46146833936234     
+ QMD%loopc,QMD%loopa=          59           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.52838784490029     
+ QMD%loopc,QMD%loopa=          60           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.57220501417260     
+ QMD%loopc,QMD%loopa=          61           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.74684866190717     
+ QMD%loopc,QMD%loopa=          62           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.77428562020782     
+ QMD%loopc,QMD%loopa=          63           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.78570233222047     
+ QMD%loopc,QMD%loopa=          64           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.81175901459085     
+ QMD%loopc,QMD%loopa=          65           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.83799860123793     
+ QMD%loopc,QMD%loopa=          66           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.87046847347176     
+ QMD%loopc,QMD%loopa=          67           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88078004635645     
+ QMD%loopc,QMD%loopa=          68           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.88454158296031     
+ QMD%loopc,QMD%loopa=          69           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88506067475794     
+ QMD%loopc,QMD%loopa=          70           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88580600828300     
+ QMD%loopc,QMD%loopa=          71           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88601376155225     
+ QMD%loopc,QMD%loopa=          72           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.88617703578370     
+ QMD%loopc,QMD%loopa=          73           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88636396179766     
+ QMD%loopc,QMD%loopa=          74           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88685005576531     
+ QMD%loopc,QMD%loopa=          75           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88687276895723     
+ QMD%loopc,QMD%loopa=          76           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.88705194136526     
+ QMD%loopc,QMD%loopa=          77           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88706266996269     
+ QMD%loopc,QMD%loopa=          78           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88710348812185     
+ QMD%loopc,QMD%loopa=          79           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88711954284543     
+ QMD%loopc,QMD%loopa=          80           1  out of          100           1
+show_time: tote_frc_strs:     0.003 sec
+ QMD%omega =   522.88711976300567     
+ QMD%loopc,QMD%loopa=          81           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88711779788719     
+ QMD%loopc,QMD%loopa=          82           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88716776808360     
+ QMD%loopc,QMD%loopa=          83           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.88717379995023     
+ QMD%loopc,QMD%loopa=          84           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90179116062666     
+ QMD%loopc,QMD%loopa=          85           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90187041360161     
+ QMD%loopc,QMD%loopa=          86           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90187666858060     
+ QMD%loopc,QMD%loopa=          87           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90189593710829     
+ QMD%loopc,QMD%loopa=          88           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90193518038279     
+ QMD%loopc,QMD%loopa=          89           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90202413622171     
+ QMD%loopc,QMD%loopa=          90           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90216779018306     
+ QMD%loopc,QMD%loopa=          91           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.90447735970429     
+ QMD%loopc,QMD%loopa=          92           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91222500795470     
+ QMD%loopc,QMD%loopa=          93           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91237355910107     
+ QMD%loopc,QMD%loopa=          94           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91241505006963     
+ QMD%loopc,QMD%loopa=          95           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91244604755821     
+ QMD%loopc,QMD%loopa=          96           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91247633366970     
+ QMD%loopc,QMD%loopa=          97           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91250923187476     
+ QMD%loopc,QMD%loopa=          98           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91254521436690     
+ QMD%loopc,QMD%loopa=          99           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ QMD%omega =   522.91255557277861     
+ QMD%loopc,QMD%loopa=         100           1  out of          100           1
+show_time: tote_frc_strs:     0.002 sec
+ *** QMD%loopc =         100
+tote,fmax,tote/natom,omega,omega/natom=        2.9914896928        0.1015907205        0.3739362116       77.4876629084        9.6859578636
+ !!!! normally end !!!!

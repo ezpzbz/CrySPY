@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 -u /Users/pezhman/repos/dev/CrySPY/cryspy.py 1>> log 2>> err
